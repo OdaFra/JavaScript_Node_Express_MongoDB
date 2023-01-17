@@ -3,7 +3,6 @@
  */
 
 //Estructura IF
-//if(condicion){}
 
 var llueve = true;
 if (llueve) {
